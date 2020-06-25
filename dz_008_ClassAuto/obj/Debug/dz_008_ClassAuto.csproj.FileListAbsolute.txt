@@ -1,0 +1,14 @@
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\bin\Debug\dz_008_ClassAuto.exe.config
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\bin\Debug\dz_008_ClassAuto.exe
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\bin\Debug\dz_008_ClassAuto.pdb
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.csprojAssemblyReference.cache
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.csproj.CoreCompileInputs.cache
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.exe
+D:\Step\C#\dzC#\dz_008_ClassAuto\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\bin\Debug\dz_008_ClassAuto.exe.config
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\bin\Debug\dz_008_ClassAuto.exe
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\bin\Debug\dz_008_ClassAuto.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.csprojAssemblyReference.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.exe
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_008_ClassAuto\obj\Debug\dz_008_ClassAuto.pdb
